@@ -6,8 +6,8 @@ The **Intelligent Agents Simulation** is a team assignment designed for the "Int
 
 ## Course Information
 
-- **Institution:** University of Piraeus
-- **Department:** Department of Informatics
+- **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
+- **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Intelligent Agents (2023-2024)
 - **Semester:** 8th
 
