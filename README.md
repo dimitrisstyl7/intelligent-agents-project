@@ -77,7 +77,7 @@ The project was implemented using Godot Engine 4.2.2. Godot was chosen due to it
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/thkox/intelligent-agents_2024-intelligent-agents-simulation.git
+    git clone https://github.com/dimitrisstyl7/intelligent-agents.git
     ```
 
 3. Open the project in Godot Engine.
