@@ -6,7 +6,7 @@ The **Intelligent Agents Simulation** is a team assignment designed for the "Int
 ## Course Information
 - **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
 - **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
-- **Course:** Intelligent Agents (2023-2024)
+- **BSc course:** Intelligent Agents (2023-2024)
 - **Semester:** 8th
 
 ## Features
@@ -89,7 +89,7 @@ The project was implemented using Godot Engine 4.2.2. Godot was chosen due to it
 </table>
 
 ## Acknowledgments
-This project was developed as part of the "Intelligent Agents" course at the University of Piraeus. Contributions and feedback are always welcome!
+This project was developed as part of the "Intelligent Agents" BSc course at the University of Piraeus. Contributions and feedback are always welcome!
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
