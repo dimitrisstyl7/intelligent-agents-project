@@ -1,18 +1,15 @@
 # Intelligent Agents (2024) - Intelligent Agents Simulation
 
 ## Project Overview
-
 The **Intelligent Agents Simulation** is a team assignment designed for the "Intelligent Agents" course, offered in the 8th semester of the 2023-2024 academic year at the University of Piraeus, Department of Informatics. This simulation project involves two competing teams of intelligent agents tasked with gathering resources (wood, stone, gold) from a shared environment and returning them to their respective villages. Each agent has unique attributes, such as energy consumption, speed, and resource carrying capacity, which affect their behavior and effectiveness. The environment is randomly generated as a grid containing villages, resources, and obstacles that agents must navigate. Using pathfinding algorithms like DFS (Depth-First Search) and A*, agents explore the map and collect resources. Agents can also exchange knowledge or reproduce when they meet, enhancing team performance. The simulation ends when one team collects all required resources or loses all its agents due to energy depletion. The project was developed using Godot Engine.
 
 ## Course Information
-
 - **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
 - **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Intelligent Agents (2023-2024)
 - **Semester:** 8th
 
 ## Features
-
 1. **Agents' Behavior**
 
     The agents in the simulation have distinct attributes, such as:
@@ -44,11 +41,9 @@ The **Intelligent Agents Simulation** is a team assignment designed for the "Int
     - One team has lost all its agents due to lack of energy.
 
 ## Implementation
-
 The project was implemented using Godot Engine 4.2.2. Godot was chosen due to its lightweight, open-source nature, and its suitability for 2D simulations. Free assets from Kenney.nl were used to create the visual elements of the simulation.
 
 ## Documentation and Resources
-
 - Full project details can be found in the [Project-documentation.pdf](./docs/Project-documentation.pdf)
 - A detailed walkthrough video is available: [Project-video.mp4](./video/Project-video.mp4)
 
@@ -93,6 +88,8 @@ The project was implemented using Godot Engine 4.2.2. Godot was chosen due to it
   </tr>
 </table>
 
-## License
+## Acknowledgments
+This project was developed as part of the "Intelligent Agents" course at the University of Piraeus. Contributions and feedback are always welcome!
 
+## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
